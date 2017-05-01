@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.top {
+	width: 200px;
+	height: 200px;
+	background-color: #CC9293;
+	float:left;
+}
+
+.middle {
+	width: 200px;
+	height: 200px;
+	background-color: #F19C01;
+	float: left;
+	margin-top: 50px;
+}
+
+#bottom {
+	width: 200px;
+	height: 200px;
+	background-color: #ED0D11;
+	clear:both;
+}
